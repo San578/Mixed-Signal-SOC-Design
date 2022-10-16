@@ -1,0 +1,42 @@
+Error opening code model "/usr/nghdl-simulator/install_dir/lib/ngspice/Ngveri.cm": /usr/nghdl-simulator/install_dir/lib/ngspice/Ngveri.cm: undefined symbol: cm_fa_info
+Error: Library /usr/nghdl-simulator/install_dir/lib/ngspice/Ngveri.cm couldn't be loaded!
+optran: no such command available in ngspice
+
+Compatibility modes selected: hs a
+
+
+Circuit: * /home/santhosh.ldc20/esim-workspace/test_adcbridge/test_adcbridge.cir
+
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v1: no DC value, transient time 0 value used
+
+No. of Data Rows : 255
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/santhosh.ldc20/eSim-Workspace/test_adcBridge/test_adcBridge.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v1: no DC value, transient time 0 value used
+No. of Data Columns : 5  
+
+No. of Data Rows : 255
+
+Total analysis time (seconds) = 0.012968
+
+Total CPU time (seconds) = 0.023 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 240349.551 MB.
+Maximum ngspice program size =   71.176 MB.
+Current ngspice program size =   10.711 MB.
+
+Shared ngspice pages =    9.242 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =    1.973 MB.
+
